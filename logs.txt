@@ -1,0 +1,14 @@
+*   2e3fc4b Merge remote-tracking branch 'origin/master'
+|\  
+| *   21ef5ed Merge pull request #11 from DzoDzo/2-find-all-completed-tasks
+| |\  
+| | * d038483 Added list of completed Tasks
+| * |   43e6f5e Merge pull request #10 from DzoDzo/1-remove-a-task-by-name
+| |\ \  
+| | |/  
+| |/|   
+| | * 9d88269 added remove task by name
+| |/  
+* / bff3b06 Added list alphabetically
+|/  
+* 45998e6 Add starter code

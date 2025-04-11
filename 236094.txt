@@ -1,0 +1,19 @@
+1. git remote add origin https://github.com/DzoDzo/SI_2025_lab1_236094
+2. add, commit -m 
+3. Kiksnav adnuvanje na README, pa dodadev nov lokalen commit so readme, gi
+squashnav dvata komiti so rebase, i so --force smeniv na repoto so se deshava 
+3.git fetch
+4.git checkout 
+5.git add, commit i push u origin 1-..(grankata) (3 pati)
+6.Nemashe konflikti za merge na pull requests
+7.git checkout master
+8. git merge na 3-..., fast forward nemashe maki
+9.Za sinkronizacija git fetch (origin)<--valjda ne morashe?
+10.pa git merge origin/master, nemashe nikakvi konflikti, ama vim se pojavi :( 
+11. git push -u origin master od napkom
+12.Zabelezeno
+13.git log --oneline --graph --all | cat > logs.txt, (padnav OS praktichno)
+14.gid add, dvete stvar
+15.git commit
+16.git push 
+
